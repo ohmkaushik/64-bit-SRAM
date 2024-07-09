@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      akanksha
+HostName                       nsdcs
+ProcessIdentifier              13637
+ProcessCreationTime_UTC        1718971222
+ProcessCreationTime_Readable   Fri Jun 21 17:30:22 2024 IST
+AppIdentifier                  /opt/cadence/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/akanksha/cadence/rohit/write_dv/physConfig/physExpand.cfg
+TimeEditLocked                 Mon Jun 24 15:37:25 2024 IST
